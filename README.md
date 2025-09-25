@@ -41,7 +41,7 @@ Materials Used:
 - 5 Arcade Buttons for user input
 
 
-Website Link:
+Website URL:
 
 https://navasandler.wixsite.com/attentionseeker
 
